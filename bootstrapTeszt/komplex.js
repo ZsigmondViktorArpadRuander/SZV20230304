@@ -125,6 +125,8 @@ function TrKeszito(eredmeny){
     return tr;
 }
 
+//komment
+
 function TesztHivasok(){
     var torzs = document.getElementById("torzs");
 
