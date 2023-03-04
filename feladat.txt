@@ -1,0 +1,9 @@
+- Keszits egy uj mappat, amibe helyez el tetszolegesen HTML, JS, CSS, kep fileokat.
+- A mappat helyezd el repoba
+- A repo tartalamat toltsd fel a repoba
+- Ellenorizd a repo statuszat
+- Helyezz el +2 uj filet a mappaba
+- Megint toltsd fel oket a repoba
+- Ellenorizd a repo statuszat
+- Allj vissza az elozo verziora
+- Ellenorizd a repo statuszat
